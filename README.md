@@ -1,5 +1,9 @@
 <h1 align="center">uranus</h1>
 
+<p align="center"><strong>WARNING: This project is archived and no longer maintained.</strong></p>
+
+---
+
 <p align="center">
   <a href="https://twitter.com/home?status=Hierarchical%20Memo%20and%20Task%20App%20by%20%40_resotto_%20https://github.com/resotto/uranus"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
   <a href="https://twitter.com/_resotto_"><img src="https://img.shields.io/badge/feedback-@_resotto_-blue.svg" /></a>
